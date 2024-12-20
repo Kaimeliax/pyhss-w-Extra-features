@@ -1,4 +1,4 @@
-# PyHSS
+<!-- # PyHSS -->
 
 Python Home Subscriber Server implementing Diameter / 3GPP Interfaces.
 ![Shelly the PyHSS Snake](docs/images/shelly.png)
@@ -7,7 +7,7 @@ Python Home Subscriber Server implementing Diameter / 3GPP Interfaces.
 PyHSS is a Diameter Home Subscriber Server (HSS) and Subscriber Data Management solution, used for LTE (4G) Evolved Packet Core (EPC) networks, written in Python3.
 
 This includes support for acting as:
- - Standard HSS
+ - Standard HSS with Extra functions
  - VoLTE HSS
  - Equipment Identity Register (EIR)
  - PCRF

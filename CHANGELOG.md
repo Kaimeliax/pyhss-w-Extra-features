@@ -1,9 +1,11 @@
 # Changelog
 
-All notable changes to PyHSS are documented in this file, beginning from [Service Overhaul #168](https://github.com/nickvsnetworking/pyhss/pull/168).
+## [1.0.2.branch.alpha01] - 2024-12-20
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
-and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+### Added
+
+- Access Restriction Data: (Home plan, Roaming plan and Roaming partner agreements)
+- QCI Override depending on plan and roaming agreements
 
 ## [1.0.2] - 2024-07-03
 
